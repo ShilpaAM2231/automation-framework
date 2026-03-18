@@ -1,0 +1,9 @@
+/target/
+.m2/
+*.log
+*.class
+*.jar
+test-output/
+.settings/
+.project
+.classpath
